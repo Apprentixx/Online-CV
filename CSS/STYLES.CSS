@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+  line-height: 2;
+}
+/** to get the font size in percentage do font size /16px e.g. 90px/16 = 562.5%
+16px = 100% = 1em **/
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr{
+  border-color: #EAF6F6;
+  border-width: 5px;
+  height: 0;
+  width: 5%;
+  border-style: dotted none none;
+  margin: 100px auto;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+
+.Top-Container {
+  background-color: #AEFEFF;
+  padding-top: 100px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+
+.middle-Container {
+margin: 100px 0;
+}
+
+.profile {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.skills {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.contact-me {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 40px;
+}
+
+.asp {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.avatar {
+  height: 250px;
+  width: 250px;
+}
+
+.HTML {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.CSS {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.link-edit {
+  padding-bottom: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.final-one {
+  color: white;
+  font-size: 20px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background: #3498db;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 20px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
